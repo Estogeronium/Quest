@@ -21,7 +21,7 @@
   "dependencies": {
     "ajv": "^5.2.3",
     "csv": "^2.0.0",
-    "csv-parse": "^2.0.0",
+    "csv-parse": "^4.4.6",
     "dotenv": "^4.0.0",
     "lodash.get": "^4.4.2",
     "lodash.set": "^4.3.2",
