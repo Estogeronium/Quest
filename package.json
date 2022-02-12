@@ -19,7 +19,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "ajv": "^5.2.3",
+    "ajv": "^6.12.3",
     "csv": "^2.0.0",
     "csv-parse": "^2.0.0",
     "dotenv": "^4.0.0",
